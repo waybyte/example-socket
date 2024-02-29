@@ -1,4 +1,4 @@
-# Logicrom SDK - TCP socket example
+# Logicrom OpenCPU SDK - TCP socket example
 
 ## How to build
 
